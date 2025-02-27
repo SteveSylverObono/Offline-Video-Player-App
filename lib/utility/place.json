@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Mefou National Park",
+      "description": "A wildlife reserve home to various primate species, including gorillas and chimpanzees, located approximately an hour's drive from Yaoundé.",
+      "latitude": 3.6333,
+      "longitude": 11.5000,
+      "image_url": "https://www.tripadvisor.com/Attraction_Review-g293773-d2279706-Reviews-Mefou_National_Park-Yaounde_Centre_Region.html"
+    },
+    {
+      "name": "Monument de la Réunification",
+      "description": "A monument symbolizing the reunification of British and French Cameroons, situated in Yaoundé.",
+      "latitude": 3.8480,
+      "longitude": 11.5021,
+      "image_url": "https://www.tripadvisor.com/Attraction_Review-g293773-d8822272-Reviews-Monument_de_la_Reunification-Yaounde_Centre_Region.html"
+    },
+    {
+      "name": "Musée Ethnographique des Peuples de la Fôret",
+      "description": "A museum showcasing the cultures and histories of Central African forest peoples, located in Yaoundé.",
+      "latitude": 3.8715,
+      "longitude": 11.5240,
+      "image_url": "https://fr.tripadvisor.ch/Attraction_Review-g293773-d9695161-Reviews-Musee_Ethnographique_des_Peuples_de_la_Foret-Yaounde_Centre_Region.html"
+    },
+    {
+      "name": "National Museum of Yaoundé",
+      "description": "Housed in the former presidential palace, this museum offers insights into Cameroon's history and traditions.",
+      "latitude": 3.8667,
+      "longitude": 11.5167,
+      "image_url": "https://www.tripadvisor.com/Attraction_Review-g293773-d480318-Reviews-National_Museum_of_Yaounde_Le_Musee_National_de_Yaounde-Yaounde_Centre_Region.html"
+    },
+    {
+      "name": "Ebogo Ecotourism Site",
+      "description": "An ecotourism site approximately 35 km from Yaoundé, offering forest walks and canoeing on the Nyong River.",
+      "latitude": 3.5167,
+      "longitude": 11.5000,
+      "image_url": "https://www.pinterest.com/pin/504614333230325731/"
+    },
+    {
+      "name": "Nachtigal Waterfalls",
+      "description": "A picturesque waterfall located in the Batchenga area, named after the explorer Nachtigal.",
+      "latitude": 4.4500,
+      "longitude": 11.7000,
+      "image_url": "https://www.lavoixdupaysan.net/cameroun-les-chutes-de-nachtigal-une-beaute-de-la-nature/"
+    },
+    {
+      "name": "Akok Bekoe Caves",
+      "description": "A series of impressive caves located in the village of Bikoe, on the road from Mbalmayo to Akono.",
+      "latitude": 3.4167,
+      "longitude": 11.3500,
+      "image_url": "https://balistobleu.blogspot.com/2012/11/la-grotte-d-akok-bekoe-et-ses-mysteres.html"
+    },
+    {
+      "name": "Sanaga River Rapids",
+      "description": "Spectacular rapids near the presidential residence of Ndjore in the Batchenga district.",
+      "latitude": 4.4500,
+      "longitude": 11.7000,
+      "image_url": "https://images.westend61.de/0001310581pw/cameroon-aerial-view-of-sanaga-river-in-landscape-VEGF01406.jpg"
+    },
+    {
+      "name": "Mbam Minkom Mountain",
+      "description": "A prominent mountain offering hiking opportunities and panoramic views of the surrounding region.",
+      "latitude": 4.0000,
+      "longitude": 11.5000,
+      "image_url": "https://www.researchgate.net/figure/Land-cover-map-showing-collecting-camps-and-villages-surrounding-the-Mbam-Minkom-Massif_fig1_367245410"
+    },
+    {
+      "name": "Nyong River",
+      "description": "A major river in the Centre Region, popular for canoeing and observing diverse flora and fauna along its banks.",
+      "latitude": 3.7667,
+      "longitude": 11.7333,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nyong_river_Cameroon.jpg/800px-Nyong_river_Cameroon.jpg?20160926201150"
+    }
+  ]
+  
